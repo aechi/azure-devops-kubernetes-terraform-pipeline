@@ -19,7 +19,6 @@ Jobs:
       echo See https://aka.ms/yaml
     displayName: 'Run a multi-line script'
 
-Jobs:
 -Job:Job2
   steps:
   - script: echo Hello, world from Job2!
